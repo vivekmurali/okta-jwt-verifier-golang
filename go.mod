@@ -1,4 +1,4 @@
-module github.com/okta/okta-jwt-verifier-golang/v2
+module github.com/vivekmurali/okta-jwt-verifier-golang
 
 go 1.19
 
